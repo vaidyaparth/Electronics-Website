@@ -14,7 +14,5 @@ This is an ecommerce web application which allows user to add and buy electronic
 => Clone the repository or download and extract the zip file
 => Open STS and click on open projects to browse and open the project 
 => You can change your database details accordingly by eiditng hibernate.cfg.xml
-=> Once you run the application the database will be automatically created with all the tables and the columns
-
-# Application Overview
+=> Once you run the application the database will be automatically created with all the tables and the column
 
