@@ -16,3 +16,6 @@ This is an ecommerce web application which allows user to add and buy electronic
 => You can change your database details accordingly by eiditng hibernate.cfg.xml<br>
 => Once you run the application the database will be automatically created with all the tables and the column<br>
 
+# Screenshots of the Application
+
+![](images/1.png)
