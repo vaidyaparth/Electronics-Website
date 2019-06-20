@@ -3,7 +3,7 @@ This is an ecommerce web application which allows user to add and buy electronic
 
 # Web Technologies and Tools used:
 => STS as IDE
-=> Spring MVC framework
+=> Spring MVC framework <br>
 => Hibernate ORM for database interaction
 => JSP to display web pages
 => HTML and CSS for designing
