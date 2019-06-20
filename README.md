@@ -6,7 +6,7 @@ This is an ecommerce web application which allows user to add and buy electronic
 => Spring MVC framework <br>
 => Hibernate ORM for database interaction<br>
 => JSP to display web pages<br>
-=> HTML and CSS for designing<br>
+=> HTML, CSS and Javascript for designing<br>
 
 # Steps to run the application
 => Download an IDE eclipse or STS(Spring Tool Suite). I have used STS here since it has his own server (Pivotal tc server)<br>
